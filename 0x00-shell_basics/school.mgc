@@ -1,2 +1,2 @@
 #!/bin/ban
-0 string SCHOOL school file --mime-type -m school *
+0 String SCHOOL school data --mime-type school *
